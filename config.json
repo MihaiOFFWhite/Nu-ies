@@ -1,5 +1,6 @@
 {
 	"ip":"nohomoman.aternos.me",
 	"port": "25565",
-	"name": "Nuies"
+	"name": "nuies",
+	"auto-night-skip":"true"
 }
